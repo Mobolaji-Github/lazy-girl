@@ -1,0 +1,58 @@
+body{ background-color: #EAF6F6; 
+}
+
+h1,h3{ color:#66BFBF;}
+
+.top-container{
+    text-align: center;
+    padding-top: 70px;
+    position: relative;
+    background-color:#EAF6F6;
+    font-family: Merriweather, serif; 
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+h1{
+    font-family: Sacramento,cursive;
+    font-size: 5.625rem;
+    margin-bottom: 0;
+    
+}
+p{
+    font-weight: 100;
+}
+h2{
+    font-family: montserrat,sans-serif;
+}
+h3{
+    font-family: montserrat,sans-serif;
+}
+.cloud1{
+    position: absolute;
+    right: 70px;
+    top: 60px;
+}
+
+.cloud2{
+    position: absolute;}
+
+
+.in{
+    text-decoration: underline;
+}
+
+.middle-container{
+    text-align: center;
+    padding-top: 30px;
+    position: relative;
+    background-color:#EAF6F6; 
+    width: 50%;
+    margin: 0 auto 0 auto;}
+
+.profile-pic, .foodie{
+    width: 160px;
+    border-radius: 80px;
+}
+
+    

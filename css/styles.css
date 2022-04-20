@@ -1,0 +1,52 @@
+body{ background-color: #EAF6F6; 
+}
+
+hr{  border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+}
+
+h1,h3{ color: #66BFBF;}
+
+.topdiv{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 100px;
+    position: relative;
+    background-color:#66BFBF;
+    
+}
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 10px;
+}
+.cloud2{
+    position: absolute;
+}
+.top{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    left: 200px;
+
+    
+}
+.middle{
+    height:100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    bottom: 100px;
+}
+.down{
+    height:100px;
+    width: 100px;
+    background-color: yellow;
+    position: relative;
+    left: 100px;
+    bottom: 200px;
+}
